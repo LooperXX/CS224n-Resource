@@ -2,7 +2,7 @@
 
 本`Repo`主要包括课程的作业与文档(Lecture, Note, Additional Readings, Suggested Readings)
 
-课程笔记参见我的[博客](https://looperxx.github.io/CS224n-2019-01-Introduction%20and%20Word%20Vectors/)，并在博客的`Repo`中提供笔记源文件的下载
+课程笔记参见我的[博客](https://looperxx.github.io/CS224n-2019-01-Introduction%20and%20Word%20Vectors/)，并在博客的[Repo](<https://github.com/LooperXX/LooperXX.github.io>)中提供笔记源文件的下载
 
 ## Assignment
 
