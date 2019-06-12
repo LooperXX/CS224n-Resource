@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaac2249-2001-4125-a337-b3c2ca7b19c4" name="Default Changelist" comment="" />
+    <list default="true" id="eaac2249-2001-4125-a337-b3c2ca7b19c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assignment 1/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/[Finish]exploring_word_vectors.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/exploring_word_vectors.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/imgs/inner_product.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/imgs/svd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 1/imgs/test_plot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,30 +17,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment 1/[Finish]exploring_word_vectors.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>pca</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -40,18 +45,15 @@
               <item name="CS224n-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS224n-2019" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CS224n-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CS224n-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment 1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -82,16 +84,17 @@
       <updated>1560158700540</updated>
       <workItem from="1560158701814" duration="1170000" />
       <workItem from="1560240834531" duration="859000" />
+      <workItem from="1560320125609" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2029000" />
+    <option name="totallyTimeSpent" value="2379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25134048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -119,9 +122,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assignment 1/a1/exploring_word_vectors.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 1/a1/exploring_word_vectors.ipynb" />
     <entry file="file://$PROJECT_DIR$/Assignment 1/[Finish]exploring_word_vectors.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>

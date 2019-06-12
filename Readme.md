@@ -1,10 +1,14 @@
-# CS224n-2019 Assignment
+# CS224n-2019
+
+本`Repo`主要包括课程的作业与文档(Lecture, Note, Additional Readings, Suggested Readings)
+
+课程笔记参见我的[博客](https://looperxx.github.io/CS224n-2019-01-Introduction%20and%20Word%20Vectors/)，并在博客的`Repo`中提供笔记源文件的下载
+
+## Assignment
 
 本文档将简要记录作业中的要点
 
-课程笔记参见[此处](https://looperxx.github.io/CS224n-2019-01-Introduction%20and%20Word%20Vectors/)
-
-# Assignment 01
+### Assignment 01
 
 -   逐步完成共现矩阵的搭建，并调用 `sklearn.decomposition` 中的 `TruncatedSVD` 完成传统的基于SVD的降维算法
 -   可视化展示，观察并分析其在二维空间下的聚集情况。
