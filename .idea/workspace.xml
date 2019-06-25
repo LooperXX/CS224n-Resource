@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaac2249-2001-4125-a337-b3c2ca7b19c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CS224n-2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS224n-2019.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reading/Additional-Python review session/python-review.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,19 +58,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment/Assignment 4/run.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignment/Assignment 4/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="266">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
                 <element signature="e#2382#2393#0" expanded="true" />
               </folding>
@@ -145,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,7 +157,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,6 +320,7 @@
       <workItem from="1561214562763" duration="1501000" />
       <workItem from="1561217822473" duration="15738000" />
       <workItem from="1561280207622" duration="1575000" />
+      <workItem from="1561303183613" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="update assignment 2">
       <created>1560619150915</created>
@@ -360,11 +350,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560956170283</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update assignment 4">
+      <created>1561303404052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561303404052</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49388000" />
+    <option name="totallyTimeSpent" value="49665000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +375,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.22252011" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.22520107" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.19235925" />
       <window_info id="Favorites" order="2" sideWeight="0.5013405" side_tool="true" weight="0.19235925" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -408,7 +405,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update assignment 2" />
     <MESSAGE value="update assignment 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update assignment 3" />
+    <MESSAGE value="update assignment 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update assignment 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -805,6 +803,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Assignment 4/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment/Assignment 4/nmt_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
@@ -817,18 +822,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment/Assignment 4/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="266">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <element signature="e#2382#2393#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment/Assignment 4/run.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
