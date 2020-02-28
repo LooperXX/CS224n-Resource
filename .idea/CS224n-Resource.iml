@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../CS224n-Resource">
+      <sourceFolder url="file://$MODULE_DIR$/../CS224n-Resource/Assignment/Assignment 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../CS224n-Resource/Assignment/Assignment 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../CS224n-Resource/Assignment/Assignment 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../CS224n-Resource/Assignment/Assignment 4" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (NCRFpp)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
